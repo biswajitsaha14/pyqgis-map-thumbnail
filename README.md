@@ -1,0 +1,1 @@
+# pyqgis-map-thumbnail
