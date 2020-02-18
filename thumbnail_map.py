@@ -1,3 +1,10 @@
+"""
+__author__ = Biswajit Saha
+__email__= bsnayan@gmail.com
+
+"""
+
+
 from qgis.core import *
 from qgis.gui import *
 from qgis.utils import iface
